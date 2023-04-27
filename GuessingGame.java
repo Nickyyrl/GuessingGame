@@ -106,8 +106,7 @@ public static int[] indice(int c, int d, int u) {
 //Un indice est choisi au hasard parmi les deux indices générés et renvoyé.
 
 
-//Fix a faire : 
-// Le programme genere parfois des nombres negatifs
+//Fix a faire :
 // La Class indice n'est pas totalement fonctionnelle
 
 
