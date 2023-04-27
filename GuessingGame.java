@@ -104,3 +104,10 @@ public static int[] indice(int c, int d, int u) {
 //La méthode indice() à partir de la ligne 62 génère deux indices pour aider l'utilisateur à trouver le nombre mystère.
 //Ces indices sont calculés en utilisant les chiffres centaines, dizaines et unités du nombre mystère et sont stockés dans un tableau. 
 //Un indice est choisi au hasard parmi les deux indices générés et renvoyé.
+
+
+//Fix a faire : 
+// Le programme genere parfois des nombres negatifs
+// La Class indice n'est pas totalement fonctionnelle
+
+
